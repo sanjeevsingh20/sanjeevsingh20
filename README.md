@@ -24,7 +24,7 @@
 <a href="https://twitter.com/sanjeev_2025" target="blank"><img align="center" src="https://svgshare.com/i/xxW.svg" alt="sanjeev_2025" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanjeev-singh-113139231" target="blank"><img align="center" src="https://svgshare.com/i/xwH.svg" alt="sanjeev-singh-113139231" height="30" width="40" /></a>
 <a href="https://instagram.com/sanjeev.singh20" target="blank"><img align="center" src="https://svgshare.com/i/xwx.svg" alt="sanjeev.singh20" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@sanjubabavines" target="blank"><img align="center" src="https://svgshare.com/i/xxV.svg" alt="@sanjubabavines" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@sanjubabavines" target="blank"><img align="center" src="https://svgshare.com/i/xxV.svg" alt="@sanjubabavines" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
